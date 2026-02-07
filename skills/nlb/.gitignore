@@ -1,0 +1,4 @@
+# Ignore parent workspace files
+../../
+../
+!../nlb/
